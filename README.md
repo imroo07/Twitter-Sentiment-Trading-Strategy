@@ -15,7 +15,7 @@ The following libraries are required to run the project:
 - sklearn
 - matplotlib
 
-## How It Works
+## Process
 1. **Data Collection**: The project uses the Tweepy library to collect tweets related to specific stocks.
 2. **Sentiment Analysis**: The TextBlob library analyzes the sentiment of each tweet, classifying it as positive, negative, or neutral.
 3. **Trading Strategy**: The strategy uses sentiment scores to make buy or sell decisions for the selected stocks.
